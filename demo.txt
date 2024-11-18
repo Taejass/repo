@@ -1,4 +1,4 @@
 this is a try to make a pull request 
 trial no. 1
-a new line added 
+a line altered 
 will it work
